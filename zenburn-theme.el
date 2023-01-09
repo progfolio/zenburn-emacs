@@ -1,5 +1,5 @@
 ;;; zenburn-theme.el --- A low contrast color theme for Emacs.
-
+;;TEST
 ;; Copyright (C) 2011-2022 Bozhidar Batsov
 
 ;; Author: Bozhidar Batsov <bozhidar@batsov.com>
